@@ -1,2 +1,2 @@
 # Calcul_Matriciel
-calcule matricielle c++
+calcul matriciel c++ (ne fonctionne pas)
